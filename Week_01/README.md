@@ -7,7 +7,6 @@ Array
 内存地址连续
 随机访问快O(1) prepend/append/lookup
 insert O(n)、delete O(n)
-Python中没有数组，通过列表List和元组tuple实现
 
 Link List
 
